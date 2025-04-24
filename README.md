@@ -1,7 +1,23 @@
 # confluence-cheat-sheet
 
 
-# Expand
+# Papierkorb
+- Workspace drei punkte > Bereichseinstellung > Inhalt Papierkorb
+  - https://privadent.atlassian.net/wiki/pages/viewtrash.action?key=xxxxxxxxx 
+
+
+
+
+
+
+
+
+
+
+# Pages
+
+
+## Expand
 1.  **Bearbeite deine Confluence-Seite.**
 2.  **Platziere den Cursor** an der Stelle, wo du die aufklappbare Sektion einfügen möchtest.
 3.  **Gib `/expand` ein** (oder öffne das Makro-Menü und suche nach "Expand").  Confluence sollte dir das Makro "Expand" vorschlagen.
